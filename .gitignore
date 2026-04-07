@@ -1,0 +1,6 @@
+# Simulation build artifacts
+sim_build/
+__pycache__/
+results.xml
+*.vcd
+*.fst
